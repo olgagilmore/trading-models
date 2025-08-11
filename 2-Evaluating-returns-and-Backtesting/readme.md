@@ -1,1 +1,3 @@
+The Risk-Parity Portfolio Analysis project explores the concept of risk-parity, a popular portfolio management strategy that aims to allocate investments in a way that equalizes the risk contribution of each asset. This approach is widely used by hedge funds and institutional investors to create more balanced portfolios that are less sensitive to market volatility.
 
+In this project, I download financial data for various assets, calculate returns, and compute risk-parity weights using Python. At the end, it evaluates the performance of the risk-parity portfolio through key financial metrics such as annualized return, volatility, and Sharpe ratio.
