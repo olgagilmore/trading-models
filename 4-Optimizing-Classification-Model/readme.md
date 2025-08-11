@@ -1,1 +1,2 @@
-
+In this project I practice optimizing various aspects of a machine learning model for predicting stock price movements. The concepts covered here are data preprocessing and cleaning, hyperparameter tuning, detecting and addressing over-/under-fitting, model evaluation, and feature selection techniques.
+The project trains a binary classification model that merely attempts to predict the direction of XLV's 5-day price movements. In other words, I want to see if on any given day, I could reliably predict whether the price of XLV will increase or decrease over the next 5 trading days.
